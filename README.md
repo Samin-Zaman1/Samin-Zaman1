@@ -2,10 +2,10 @@
 
 **QA Engineer · Product-minded** · Bangladesh
 
-I make sure software works for the people using it. I write automated tests that catch regressions before users do, and I build products from a real customer's problem outwards: a working pharmacy POS for a shop in Bangladesh, plus the positioning and copy that explain why a product matters.
+I make sure software works for the people using it. I write automated tests that catch regressions before users do, and I build products from a real customer's problem outwards, like a working pharmacy POS for a shop in Bangladesh.
 
 - 🧪 **QA**: Playwright end-to-end testing, Page Object Model, CI pipelines on GitHub Actions
-- 🧭 **Product**: turning user problems into phased requirements, prioritising high-value workflows, writing clear product messaging
+- 🧭 **Product**: turning user problems into phased requirements, prioritising high-value workflows
 - 🌱 **Learning now**: API testing and expanding test coverage on real-world apps
 
 ## Featured work
@@ -14,8 +14,6 @@ I make sure software works for the people using it. I write automated tests that
 |---|---|
 | 🧪 **[saucedemo-qa-suite](https://github.com/Samin-Zaman1/saucedemo-qa-suite)** | Playwright + TypeScript E2E suite with Page Object Model, custom fixtures and CI on every push. Login and cart flows, including negative and edge cases |
 | 💊 **[bangla-medical-hall](https://github.com/Samin-Zaman1/bangla-medical-hall)** | POS and inventory system for a real pharmacy: batch-level stock, credit (*baki*) tracking, role-based access, and AI invoice extraction with a human review step. Next.js, Supabase |
-| ✍️ **[copywriting-portfolio](https://samin-zaman1.github.io/copywriting-portfolio/)** | Positioning and brand copy for concept streetwear ([BLACKOUT](https://samin-zaman1.github.io/blackout/)) and skincare ([BLOOM](https://samin-zaman1.github.io/bloom/)) brands |
-
 ## Tools
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
