@@ -14,7 +14,7 @@ I make sure software works for the people using it. I write automated tests that
 |---|---|
 | **[bangla-medical-hall](https://github.com/Samin-Zaman1/bangla-medical-hall)** | POS and inventory system for a real pharmacy: batch-level stock, credit (*baki*) tracking, role-based access, and AI invoice extraction with a human review step. About 300 automated tests across unit, component, database and Playwright E2E layers, with a CI/CD pipeline and CodeQL. Next.js, Supabase |
 | **[saucedemo-qa-suite](https://github.com/Samin-Zaman1/saucedemo-qa-suite)** | Playwright + TypeScript UI and API test suite with Page Object Model, custom fixtures and CI on every push. Login, cart and Users API flows, including negative and edge cases |
-| **[typescript-testing-fundamentals](https://github.com/Samin-Zaman1/typescript-testing-fundamentals)** | Vitest unit tests with mocks, table-driven edge cases and 90% coverage thresholds enforced in CI; merges to `main` are blocked unless tests pass |
+| **[typescript-testing-fundamentals](https://github.com/Samin-Zaman1/typescript-testing-fundamentals)** | Vitest unit tests with mocks, table-driven edge cases and 90% coverage thresholds, plus a Playwright browser test. Unit and E2E suites run as parallel CI jobs, and merges to `main` are blocked unless both pass |
 
 ## Tools
 
