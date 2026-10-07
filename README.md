@@ -14,7 +14,7 @@ I make sure software works for the people using it. I write automated tests that
 |---|---|
 | **[bangla-medical-hall](https://github.com/Samin-Zaman1/bangla-medical-hall)** | POS and inventory system for a real pharmacy: batch-level stock, credit (*baki*) tracking, role-based access, and AI invoice extraction with a human review step. About 300 automated tests across unit, component, database and Playwright E2E layers, with a CI/CD pipeline and CodeQL. Next.js, Supabase |
 | **[saucedemo-qa-suite](https://github.com/Samin-Zaman1/saucedemo-qa-suite)** | Playwright + TypeScript UI and API test suite (38 tests) with Page Object Model and custom fixtures, covering login, cart, checkout totals, sorting and a Users API. Documents 11 bugs found in the app as expected-failure tests, including a floating-point error in the checkout total. CI publishes a [live HTML report](https://samin-zaman1.github.io/saucedemo-qa-suite/) |
-| **[recordsift](https://github.com/Samin-Zaman1/recordsift)** | TypeScript library that loads API data with retries and validates every record at runtime, returning valid and rejected records instead of crashing. Works with type guards and Zod. 100% test coverage, plus a package test that installs the real npm tarball and runs it against a flaky HTTP server on Node 22 and 24 |
+| **[RecordGuard](https://github.com/Samin-Zaman1/recordguard)** | Stops bad API data before it reaches your app. TypeScript library that loads API data with retries and validates every record at runtime, returning valid and rejected records instead of crashing. Works with type guards and Zod. 100% test coverage, plus a package test that installs the real npm tarball and runs it against a flaky HTTP server on Node 22 and 24 |
 
 ## Tools
 
