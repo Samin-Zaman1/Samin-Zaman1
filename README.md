@@ -18,6 +18,5 @@ Nearly three years of QA on SaaS products: Playwright automation in TypeScript, 
 | **[bangla-medical-hall](https://github.com/Samin-Zaman1/bangla-medical-hall)** | ~300 tests across unit, component, database and E2E layers. CI with CodeQL, post-deploy smoke tests and automatic rollback |
 | **[recordguard](https://github.com/Samin-Zaman1/recordguard)** | 100% coverage, fake-timer tests for retry and backoff, package test on Node 22 and 24 |
 | **[learners-hub](https://github.com/Samin-Zaman1/learners-hub)** | Jest unit tests in CI; test strategy and defects in TESTING.md |
-| **[portfolio-samin-zaman](https://github.com/Samin-Zaman1/portfolio-samin-zaman)** | Navigation, link and WCAG 2.1 AA checks in four browsers before each deploy |
 
 Portfolio: https://samin-zaman1.github.io/portfolio-samin-zaman/ · Email: [saminzaman7@gmail.com](mailto:saminzaman7@gmail.com)
